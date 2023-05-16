@@ -61,6 +61,7 @@ Example:
 - If a company offers multiple cloud services under a single UI, but does not meet most or all of these requirements, it would be referred to as a Cloud Platform (Twilio, HashiCorp, Databricks)
 
 ## Landscape of CSPs
+___
 **Tier-1 (Top Tier):** Early to market, wide offering, strong synergies between services, well recognized in the industry
 - Amazon Web Services (AWS)
 - Microsoft Azure
@@ -78,22 +79,26 @@ Example:
 - Linode
 
 ## Gartner Magic Quadrant for Cloud
+___
 Magic Quadrant (MQ): a series of market research reports published by IT consulting firm Gartner that rely on proprietary qualitative data analysis methods to demonstrate merket trends, such as direction, maturity and participants
 
 ## Common Cloud Services
+___
 A cloud service provider can have hundreds of cloud services that are grouped into various types of services. The four most common types of cloud services (the 4 core) for Infrastructure as a service (IaaS) would be:
 1. Compute
-- Imagine having a virtual computer that can run application, programs and code
+	- Imagine having a virtual computer that can run application, programs and code
 2. Networking
-- Imagine having a virtual network defining internet connections or network isolations between services or outbound to the internet
+	- Imagine having a virtual network defining internet connections or network isolations between services or outbound to the internet
 3. Storage
-- Imagine having a virtual hard-drive that can store files
+	- Imagine having a virtual hard-drive that can store files
 4. Databases
-- Imagine a virtual database for storing reporting data or a database for general purpose web-application
+	- Imagine a virtual database for storing reporting data or a database for general purpose web-application
+
 AWS has over 200+ cloud services
 The term "Cloud Computing" can be used to refer to all categories, even though it has "compute" in the name
 
 ## Technology Overview
+___
 Cloud Service Providers (CSPs) that  are Infrastructure as a service (IaaS) will always have 4 core cloud service offerings:
 1. Compute (EC2 Virtual Machines)
 2. Storage (EBS Virtual Hard Drives)
@@ -126,3 +131,37 @@ Additional offerings can include:
 ## AWS Services Preview
 https://aws.amazon.com/certification/certified-solutions-architect-associate/?sc_channel=ha&sc_icampaign=aware_global_200_certification_spotlight_solutionsarchitectassociate_ribbon_tnc&sc_ichannel=ha&sc_icontent=awssm-1249_tnc_aware&sc_iplace=ribbon&trk=4dd900a1-c8e5-4f60-8713-8915415f2c67~ha_awssm-1249_tnc_aware
 (See Products at top left)
+
+## The Evolution of Computing
+Dedicated
+- A physical server wholly utilized by a single customer
+- You have to guess your capacity
+- You'll overpay for an underutilized server
+- You can't vertical scale, you need a manual migration
+- Replacing a server is very difficult
+- You are limited by your host Operating System
+- Multiple apps can result in conflicts in resource sharing
+- You have a guarantee of security, privacy and full utility of underlying resources
+Virtual Machines (VMs)
+- You can run multiple virtual machines on one machine
+- Hypervisor is the software layer that lets you run the VMs
+- A physical server shared by multiple customers
+- You are to pay for a fraction of the server
+- You'll overpay for an underutilized Virtual Machine
+- You are limited by your guest Operating System
+- Multiple apps on a single Virtual Machine can result in conflicts in resource sharing
+- Easy to export or import images for migration
+- Easy to vertically or horizontally scale
+Containers
+- Virtual Machine running multiples containers
+- Docker Daemon is the name of the software later that lets you run multiple containers
+- You can maximize the utility of the available capacity which is more cost-effective
+- Your containers share the same underlying OS so containers are more efficient that multiple VMs
+- Multiple apps can run side by side without being limited to the same OS requirements and will not cause conflicts during resource sharing
+Functions
+- Are managed VMs running managed containers
+- Known as Serverless Compute
+- You upload a piece of code, choose the amount of memory and duration.
+- Only responsible for code and data, nothing else
+- Very cost-effective, only pay for the time code is running, VMs only run when there is code to be executed
+- Cold Starts is a side-effect of this setup (VMs take time to "spin up")
