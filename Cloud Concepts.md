@@ -122,3 +122,7 @@ Additional offerings can include:
 - Satellites
 - Security, Identity & Compliance
 - etc.
+
+## AWS Services Preview
+https://aws.amazon.com/certification/certified-solutions-architect-associate/?sc_channel=ha&sc_icampaign=aware_global_200_certification_spotlight_solutionsarchitectassociate_ribbon_tnc&sc_ichannel=ha&sc_icontent=awssm-1249_tnc_aware&sc_iplace=ribbon&trk=4dd900a1-c8e5-4f60-8713-8915415f2c67~ha_awssm-1249_tnc_aware
+(See Products at top left)
