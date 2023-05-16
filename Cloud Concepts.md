@@ -76,3 +76,18 @@ Example:
 - Vultr
 - Digital Ocean
 - Linode
+
+## Gartner Magic Quadrant for Cloud
+Magic Quadrant (MQ): a series of market research reports published by IT consulting firm Gartner that rely on proprietary qualitative data analysis methods to demonstrate merket trends, such as direction, maturity and participants
+
+## Common Cloud Services
+A cloud service provider can have hundreds of cloud services that are grouped into various types of services. The four most common types of cloud services (the 4 core) for Infrastructure as a service (IaaS) would be:
+1. Compute
+- Imagine having a virtual computer that can run application, programs and code
+2. Networking
+- Imagine having a virtual network defining internet connections or network isolations between services or outbound to the internet
+3. Storage
+- Imagine having a virtual hard-drive that can store files
+4. Databases
+- Imagine a virtual database for storing reporting data or a database for general purpose web-application
+AWS has over 200+ cloud services
