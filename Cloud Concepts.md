@@ -59,3 +59,20 @@ A company which:
 Example:
 ![AWS Infrastructure Example](AWS_infra_example.png "AWS Infrastructure Example")
 - If a company offers multiple cloud services under a single UI, but does not meet most or all of these requirements, it would be referred to as a Cloud Platform (Twilio, HashiCorp, Databricks)
+
+## Landscape of CSPs
+**Tier-1 (Top Tier):** Early to market, wide offering, strong synergies between services, well recognized in the industry
+- Amazon Web Services (AWS)
+- Microsoft Azure
+- Google Cloud Platform (GCP)
+- Alibaba Cloud
+
+**Tier-2 (Mid Tier):** Backed by well-known tech companies, slow to innovate and turned to specialization
+- IBM Cloud
+- Oracle Cloud
+- Rackspace (OpenStack)
+
+**Tier-3 (Light Tier):** Virtual Private Servers (VPS) turn to offer core IaaS offering. Simple, cost-effective
+- Vultr
+- Digital Ocean
+- Linode
