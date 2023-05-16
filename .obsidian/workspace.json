@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "e8e47424a2191643",
+    "type": "split",
+    "children": [
+      {
+        "id": "530dd65522918a3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c0395103f94357f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b6c4033839205814",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6707c2fc00d0fda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0a201f16c23e02a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "ec054a7d076b53e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9d79316f3d8eec8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bde25e751e5d6170",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8309723f101d4f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39c16b7f44866d5c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "559e28de5f11ee49",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19a671228ec0e138",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01f23a2fa4b4aea2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3c0395103f94357f",
+  "lastOpenFiles": [
+    "Cloud Concepts.md",
+    "Introduction.md",
+    "Digital Transformation.md",
+    "Getting Started.md",
+    "The Benefits of Cloud.md",
+    "Variation Study.md",
+    "Security.md",
+    "Billing, Pricing and Support.md",
+    "TCO and Migration.md",
+    "AWS Well-Architected Framework.md",
+    "ML, AI and Big Data.md",
+    "Logging.md",
+    "Windows on AWS.md",
+    "Serverless Services.md",
+    "Provisioning.md",
+    "Governance.md",
+    "Containers.md",
+    "Application Integration.md",
+    "Identity.md",
+    "EC2 Pricing Models.md",
+    "EC2.md",
+    "Networking.md",
+    "Databases.md",
+    "Storage.md",
+    "Compute.md",
+    "Shared Responsibility Model.md",
+    "Pasted image 20230516093821.png"
+  ]
+}
