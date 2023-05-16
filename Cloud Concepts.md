@@ -44,3 +44,18 @@ ___
 - Adam Selipsky: CEO of AWS. former CTO of Tableau, spent a decade with AWS as VP of Marketing, Sales and Support
 - Werner Vogels: CTO of AWS. "Everything fails, all the time"
 - Jeff Barr: Chief Evangelist
+
+## What is a Cloud Service Provider?
+__
+A company which:
+- Provides multiple Cloud Services (10s to 100s of services)
+- Allows the Cloud Services *to be chained together* to create cloud architectures
+- Makes the Cloud Services accessible *via a Single Unified API* (AWS API)
+- Offers Cloud Services which utilize *metered billing* based on usage (per second, per hour)
+- Provide rich monitoring built in to the Cloud Services (AWS CloudTrail)
+- Provide Infrastructure as a Service (IaaS) offering
+- Offers *automation* via infrastructure as Code (IaC) on those Cloud Services
+
+Example:
+![AWS Infrastructure Example](AWS_infra_example.png "AWS Infrastructure Example")
+- If a company offers multiple cloud services under a single UI, but does not meet most or all of these requirements, it would be referred to as a Cloud Platform (Twilio, HashiCorp, Databricks)
