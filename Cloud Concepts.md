@@ -172,3 +172,13 @@ A product that is run and managed by the service provider. Don't worry about how
 Focus on the deployment and management of your apps. Don't worry about provisioning, configuring or understanding the hardware or OS (Elastic Beanstalk, Heroku, Google App Engine)
 IaaS (Infrastructure as a Service) - For Admins
 The basic building blocks for cloud IT. Provides access to networking features, computers and data storage space. Don't worry about IT staff, data centers and hardware. (Microsoft Azure, AWS, Oracle Cloud)
+
+## Cloud Computing Deployment Models
+### Public Cloud
+- Everything (the workload or project) is built on the CSP. Also known as: Cloud-Native or Cloud First
+### Private Cloud
+- Everything built on company's datacenters. Also known as On-Premise. The cloud could be OpenStack
+### Hybrid
+- Using both On-Premise and a Cloud Service Provider
+### Cross-Cloud
+- Using Multiple Cloud Providers. AKA Multi-Cloud, "hybrid-cloud"
