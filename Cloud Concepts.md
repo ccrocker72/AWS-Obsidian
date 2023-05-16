@@ -182,3 +182,29 @@ The basic building blocks for cloud IT. Provides access to networking features, 
 - Using both On-Premise and a Cloud Service Provider
 ### Cross-Cloud
 - Using Multiple Cloud Providers. AKA Multi-Cloud, "hybrid-cloud"
+## Deployment Model Use Cases
+### Cloud
+Fully utilizing cloud computing
+
+Companies that are starting out today, or are small enough to make the leap from a VPS to a CSP
+- Startups
+- SaaS offerings
+- New projects and companies
+IE Dropbox, Squarespace
+### Hybrid
+Using both Cloud and On-Premise
+
+Organizations that started their own datacenter, can't fully move to the cloud due to effort of migration or security compliance
+- Banks
+- FinTech, Investment Management
+- Large Professional Services Providers
+- Legacy on-premise
+IE Deloitte, CPP Investment Board, CIBC (a bank)
+### On-Premise
+Deploying resources on-premises, using virtualization and resource management tools, is sometimes called "private cloud".
+
+Organizations that cannot run on cloud due to strict regulatory compliance or the sheer size of their organization
+- Public sector, EG Goverment
+- Super Sensitive Data, EG Hospitals
+- Large Enterprise with heavy regulation, EG insurance companies
+There really isn't a good reason to be on-premise anymore!
