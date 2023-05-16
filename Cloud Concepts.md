@@ -91,3 +91,4 @@ A cloud service provider can have hundreds of cloud services that are grouped in
 4. Databases
 - Imagine a virtual database for storing reporting data or a database for general purpose web-application
 AWS has over 200+ cloud services
+The term "Cloud Computing" can be used to refer to all categories, even though it has "compute" in the name
