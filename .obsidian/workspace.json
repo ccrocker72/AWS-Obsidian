@@ -11,8 +11,12 @@
             "id": "3c0395103f94357f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Concepts.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cloud Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cloud Concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cloud Concepts.md"
+              }
             }
           }
         ]
@@ -140,6 +148,9 @@
   },
   "active": "3c0395103f94357f",
   "lastOpenFiles": [
+    "Cloud Architecture.md",
+    "www.exampro.co/clf-c01.md",
+    "www.exampro.co",
     "Cloud Concepts.md",
     "Introduction.md",
     "Digital Transformation.md",
@@ -164,8 +175,6 @@
     "Networking.md",
     "Databases.md",
     "Storage.md",
-    "Compute.md",
-    "Shared Responsibility Model.md",
     "Pasted image 20230516093821.png"
   ]
 }
