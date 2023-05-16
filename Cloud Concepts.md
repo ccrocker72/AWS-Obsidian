@@ -92,3 +92,33 @@ A cloud service provider can have hundreds of cloud services that are grouped in
 - Imagine a virtual database for storing reporting data or a database for general purpose web-application
 AWS has over 200+ cloud services
 The term "Cloud Computing" can be used to refer to all categories, even though it has "compute" in the name
+
+## Technology Overview
+Cloud Service Providers (CSPs) that  are Infrastructure as a service (IaaS) will always have 4 core cloud service offerings:
+1. Compute (EC2 Virtual Machines)
+2. Storage (EBS Virtual Hard Drives)
+3. Database (RDS SQL Databases)
+4. Networking and Content Delivery (VPC Private Cloud Network)
+Additional offerings can include:
+- Analytics
+- Application Integration
+- AR & VR
+- AWS Cost Management
+- Blockchain
+- Business Applications
+- Containers
+- Customer Engagement
+- Developer Tools
+- End User Computing
+- Game Tech
+- Internet of Things
+- Machine Learning
+- Management & Governance
+- Media Services
+- Migration & transfer
+- Mobile
+- Quantum Technologies
+- Robotics
+- Satellites
+- Security, Identity & Compliance
+- etc.
