@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Concepts.md",
+                "file": "Getting Started.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Concepts.md",
+                "file": "Getting Started.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Concepts.md",
+                "file": "Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Concepts.md"
+                "file": "Getting Started.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "3c0395103f94357f",
   "lastOpenFiles": [
+    "Cloud Concepts.md",
     "AWS_infra_example.png",
     "AWS_infra_example.png.md",
     "AWS infra example.png",
@@ -155,7 +156,6 @@
     "Cloud Architecture.md",
     "www.exampro.co/clf-c01.md",
     "www.exampro.co",
-    "Cloud Concepts.md",
     "Introduction.md",
     "Digital Transformation.md",
     "Getting Started.md",
