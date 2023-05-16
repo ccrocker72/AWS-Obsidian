@@ -165,3 +165,10 @@ Functions
 - Only responsible for code and data, nothing else
 - Very cost-effective, only pay for the time code is running, VMs only run when there is code to be executed
 - Cold Starts is a side-effect of this setup (VMs take time to "spin up")
+## Types of Cloud Computing
+### SaaS (Software as a Service) - For Customers
+A product that is run and managed by the service provider. Don't worry about how the service is maintained. It just works and remains available (Gmail. Salesforce, Office365)
+### PaaS (Platform as a Service) - For Developers
+Focus on the deployment and management of your apps. Don't worry about provisioning, configuring or understanding the hardware or OS (Elastic Beanstalk, Heroku, Google App Engine)
+IaaS (Infrastructure as a Service) - For Admins
+The basic building blocks for cloud IT. Provides access to networking features, computers and data storage space. Don't worry about IT staff, data centers and hardware. (Microsoft Azure, AWS, Oracle Cloud)
