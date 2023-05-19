@@ -24,3 +24,7 @@ log out then log back in to make sure the new password works
 ## AWS Region Selector
 recommended to run in us-east-1
 some services are global, but some are not
+
+## Overbilling Story
+Be careful when setting up a service and be aware of spend
+example provided was elasticache
