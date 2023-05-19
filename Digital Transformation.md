@@ -9,3 +9,6 @@ There a common pattern of a wave change of supply and demand
 
 ## Burning Platform
 Burning Platform: term used when a company abandons old technology for new technology with the uncertainty of success and can be motivated by fear that the organization future survival hinges on its digital transformation
+
+## Digital Transformation Checklist
+See [PDF](digital-transformation-checklist.pdf)
