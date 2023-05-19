@@ -28,3 +28,8 @@ some services are global, but some are not
 ## Overbilling Story
 Be careful when setting up a service and be aware of spend
 example provided was elasticache
+
+## AWS Budgets
+can use template to set budget amount, pretty straightforward
+
+
