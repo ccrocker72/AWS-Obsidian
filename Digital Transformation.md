@@ -6,3 +6,6 @@ Each wave irreversibly changes society on the global scale. The latest wave is C
 3. Depression
 4. Improvement
 There a common pattern of a wave change of supply and demand
+
+## Burning Platform
+Burning Platform: term used when a company abandons old technology for new technology with the uncertainty of success and can be motivated by fear that the organization future survival hinges on its digital transformation
