@@ -32,4 +32,6 @@ example provided was elasticache
 ## AWS Budgets
 can use template to set budget amount, pretty straightforward
 
-
+## AWS Free Tier
+can set billing preferences to get free tier alerts
+different services have different "trial" periods in this tier
