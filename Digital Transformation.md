@@ -16,3 +16,6 @@ See [PDF](digital-transformation-checklist.pdf)
 ## Evolution of Computing Power
 Computing Power: The throughput measured at which a computer can complete a computational task.
 For example: General Computing: Elastic Compute Cloud EC2, GPU Computing: AWS Inferentiare (Inf1), Quantum Computing: AWS Bracket
+
+## Amazon Braket
+quantum computing demo
