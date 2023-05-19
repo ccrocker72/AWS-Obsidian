@@ -35,3 +35,10 @@ can use template to set budget amount, pretty straightforward
 ## AWS Free Tier
 can set billing preferences to get free tier alerts
 different services have different "trial" periods in this tier
+
+## Billing Alarm
+start by looking up cloudwatch (a collection of services)
+Go to Billing tab. Can get 10 free alarms and 1,000 free email notifications each month in the free tiers
+fill out metric name, threshold type, condition and value
+Set alarm (may need to create new topic)
+Click through the menu and create the alarm
