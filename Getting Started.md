@@ -42,3 +42,8 @@ Go to Billing tab. Can get 10 free alarms and 1,000 free email notifications eac
 fill out metric name, threshold type, condition and value
 Set alarm (may need to create new topic)
 Click through the menu and create the alarm
+
+## Turning on MFA
+log in to root user account
+go to IAM menu, click Add MFA for root account
+Set up the service of your choice
